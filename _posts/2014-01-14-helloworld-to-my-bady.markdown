@@ -2,8 +2,8 @@
 layout: post
 title:  "你好子悦"
 date:   2014-01-14 08:41:34
-categories: jekyll update
+categories: 成长记录
 ---
 
 爸爸妈妈欢迎你来到这个世界上!
-![出生](http://tangziyue.qiniudn.com/born.jpg)
+![出生](http://tangziyue.qiniudn.com/born.jpg?imageMogr/v2/thumbnail/400)
