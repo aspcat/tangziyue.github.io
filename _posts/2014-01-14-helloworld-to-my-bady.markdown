@@ -6,4 +6,4 @@ categories: jekyll update
 ---
 
 爸爸妈妈欢迎你来到这个世界上!
-http://tangziyue.qiniudn.com/born.jpg
+![出生](http://tangziyue.qiniudn.com/born.jpg)
