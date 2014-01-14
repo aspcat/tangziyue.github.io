@@ -2,7 +2,7 @@
 layout: post
 title:  "你好子悦"
 date:   2014-01-14 08:41:34
-categories: 成长记录
+categories: record
 ---
 
 爸爸妈妈欢迎你来到这个世界上!
