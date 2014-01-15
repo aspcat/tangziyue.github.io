@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "新年计划"
+date:   2014-01-15 12:58:01
+categories: tech
+---
+新年计划
+--
+- 开发
+- 运维
+- 管理
+- 安全
+详细看看自己的google drive
